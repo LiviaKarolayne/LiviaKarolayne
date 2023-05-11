@@ -1,6 +1,6 @@
-### Hi, there!
+### Olá :raised_hand:!
 
-Technician in Informatics by the Instituto Federal de Ciência e Tecnologia (2020). Currently, she is graduating in Technology in Computer Networks at the same institution. She works as a researcher at the Laboratório de Tecnologias Avançadas em Redes de Computadores (LaTARC/IFRN). She is interested in topics related to Quality of Service, Quality of Experience, Mobility Management, Software Development, Information Security and Operating Systems - with a focus on Linux. She has experience in Programming Logic, Java Language, Web Development and Database.
+Sou técnica em Informática pelo Instituto Federal de Ciência e Tecnologia (2020). Atualmente, graduanda em Tecnologia em Redes de Computadores pela mesma instituição. Meus interesses se concentram em tópicos relacionados à automação de tarefas, desenvolvimento de softwares, DevOps e Sistemas Operacionais - com foco em Linux. Adquiri experiência em Lógica de Programação, Linguagem Java e Python, Desenvolvimento Web e Banco de Dados.
 
 ***
 
