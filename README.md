@@ -170,10 +170,19 @@ Classroom Network Controller | 2018-2019
 Currently, I am enhancing my skills in Infrastructure as Code (IaC), focusing on the study and application of essential tools such as Ansible, Terraform, and Kubernetes. Additionally, I am beginning to explore the realm of cloud service providers.
 
 ## 📈 GitHub Statistics
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LiviaKarolayne&show_icons=true&hide_title=true&count_private=true&theme=dark)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiviaKarolayne&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaKarolayne&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+***
 
 ## 📫 Where you can find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lívia-karolayne-7191001a7)
 [![Gmail](https://img.shields.io/badge/lkmo.liviakarolayne@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lkmo.liviakarolayne@gmail.com)
 
 Let's connect and collaborate on interesting projects! 😄
+
+
+
+
