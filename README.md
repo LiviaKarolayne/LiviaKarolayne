@@ -9,6 +9,7 @@ When I'm not programming, you can find me watching series, cooking or working ou
 ## 🚀 Skills
 
 #### Programming Languages: 
+> Programming languages I use or have used
 <table>
   <tr>
     <td align="center" width="96">
@@ -39,6 +40,8 @@ When I'm not programming, you can find me watching series, cooking or working ou
 </table>
 
 #### Technologies: 
+> Technologies I use or am learning
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -131,6 +134,8 @@ When I'm not programming, you can find me watching series, cooking or working ou
 </table>
 
 #### Tools: 
+> Tools I use daily
+
 <table>
   <tr>
     <td align="center" width="96">
