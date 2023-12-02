@@ -96,7 +96,7 @@ When I'm not programming, you can find me watching series, cooking or working ou
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://e7.pngegg.com/pngimages/280/287/png-clipart-web-application-firewall-computer-security-computer-icons-world-wide-web-text-orange-thumbnail.png" width="48" height="48" alt="iptables"/>
+        <img src="https://e7.pngegg.com/pngimages/280/287/png-clipart-web-application-firewall-computer-security-computer-icons-world-wide-web-text-orange-thumbnail.png" width="48" height="48" alt="Iptables"/>
       </a>
       <br>Iptables
     </td>
@@ -158,9 +158,9 @@ When I'm not programming, you can find me watching series, cooking or working ou
     </td>
     <td align="center" width="96">
       <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira"/>
+       <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/29a0cda2-8ab7-4d7e-980d-b4736a6493f6.png" width="48" height="48" alt="Kanbanizer"/>
       </a>
-      <br>Jira
+      <br>Kanbanizer
     </td>
   </tr>
 </table>
