@@ -176,8 +176,8 @@ Currently, I am enhancing my skills in Infrastructure as Code (IaC), focusing on
 
 ## 📈 GitHub Statistics
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiviaKarolayne&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaKarolayne&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiviaKarolayne&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=400&custom_title=L%C3%ADvia%20Karolayne%27s%20GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaKarolayne&layout=compact&langs_count=10&hide=html,scss,powershell&card_width=400&theme=dark"/>
 </div>
 
 ***
