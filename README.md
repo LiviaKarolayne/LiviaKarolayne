@@ -1,13 +1,11 @@
 # Lívia Karolayne
 
 ## 👋 Hi, what's up?
+I'm Lívia, I work as a DevOps Analyst at Grupo Boticário and a Software Developer. My experience involves efficient integration between development and operations to optimize software delivery. Currently, I am focusing my learning on Infrastructure as Code (IaC) and Cloud practices, aiming to improve the scalability and operational efficiency of projects.
 
-I'm Lívia, I work as a DevOps Analyst at Grupo Boticário and a software developer. My experience involves efficient integration between development and operations to optimize software delivery. Currently, I am focusing my learning on Infrastructure as Code (IaC) and Cloud practices, aiming to improve the scalability and operational efficiency of projects.
-
-When I'm not programming, you can find me watching series, cooking or working out at the gym.
+When I'm not programming, you can find me watching series, reading books, cooking or working out at the gym.
 
 ## 🚀 Skills
-
 #### Programming Languages: 
 > Programming languages I use or have used
 <table>
@@ -41,7 +39,6 @@ When I'm not programming, you can find me watching series, cooking or working ou
 
 #### Technologies: 
 > Technologies I use or am learning
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -135,7 +132,6 @@ When I'm not programming, you can find me watching series, cooking or working ou
 
 #### Tools: 
 > Tools I use daily
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -170,6 +166,7 @@ When I'm not programming, you can find me watching series, cooking or working ou
 Classroom Network Controller | 2018-2019
 - Description: A web application for managing internet access in classrooms and laboratories.
 - Technologies used: Pray Framework, Java, Shell Scripting, Iptables, Ganymed SSH-2 Library, API SUAP, HTML, CSS and JavaScript.
+- [Link to Project](https://github.com/LiviaKarolayne/classroom-network-controller)
 
 ## 🌱 Currently Learning
 Currently, I am enhancing my skills in Infrastructure as Code (IaC), focusing on the study and application of essential tools such as Ansible, Terraform, and Kubernetes. Additionally, I am beginning to explore the realm of cloud service providers.
