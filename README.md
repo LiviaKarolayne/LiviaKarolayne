@@ -1,6 +1,6 @@
 ## Analista DevOps | Desenvolvedora de Software | Instrutora Particular
 
-Olá, sou a Lívia! Como **Analista DevOps** no **Grupo Boticário**, meu foco é **otimizar a entrega de software** por meio de **automação** e **integração contínua**, garantindo processos mais eficientes e ágeis.
+Olá, sou a Lívia! Trabalho como **Analista DevOps** no **Grupo Boticário**, meu foco é **otimizar a entrega de software** por meio de **automação** e **integração contínua**, garantindo processos mais eficientes e ágeis.
 
 Atualmente, estou me aprofundando em **infraestrutura como código (IaC)** e **soluções em nuvem**, com o objetivo de criar soluções ainda mais escaláveis e automatizadas para o gerenciamento de sistemas e dados.
 
